@@ -1,1 +1,3 @@
-alert("olá Nicolas")
+var a = "teste a"
+
+console.log(a)
